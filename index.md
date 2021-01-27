@@ -13,8 +13,8 @@
     <tr>
       <th>500 mb Heights Pattern</th>
       <th>300 mb Isotachs Pattern</th>
-      <th>Precipitation Pattern</th>
-      <th>Dominant Nodes Quantitative Precip Forecast</th>
+      <th>Precip Pattern of the Dominant Node</th>
+      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png"></td>
@@ -40,15 +40,44 @@
       <td><img src="https://user-images.githubusercontent.com/75145898/106025555-18081880-6086-11eb-8936-723b59704d4c.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/106025610-27876180-6086-11eb-9ad4-d15eb1bbd25d.png"></td>
     </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/106037488-fb72dd00-6093-11eb-8b54-6d1dfe7ef380.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/106037515-0594db80-6094-11eb-8a5a-2e4f401acea4.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/106037532-0ded1680-6094-11eb-89ce-9287186379dc.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src="https://user-images.githubusercontent.com/75145898/106037550-15142480-6094-11eb-9a62-4f5ff138d583.png"></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
 Documenting the upper air patterns, jet level winds and precipitation patterns that occurred during January 2021.
 <hr>
-  <table border="1" cellpadding="1" cellspacing="1">
+
+
+
+
+<table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>Members 1, 7, 12, 14, 16, 18, 19 and 21-30</th>
       <th>Members 6 and 17</th>
       <th>Members 3 and 15</th>
     </tr>
     <tr>  
+      <td><img src=""></td>
       <td><img src=""></td>
       <td><img src=""></td>
       <td><img src=""></td>
