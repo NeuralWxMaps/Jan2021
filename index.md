@@ -7,9 +7,6 @@
     <center>January 2021 Height Patterns and Precipitation
   <hr>
 
-![Pttn679](https://user-images.githubusercontent.com/75145898/106035746-b0f06100-6091-11eb-993f-df06edaccbb5.png)
-![Pttn567](https://user-images.githubusercontent.com/75145898/106035788-bb125f80-6091-11eb-8bfd-888884f2b8cf.png)
-![Pttn530](https://user-images.githubusercontent.com/75145898/106035810-c2d20400-6091-11eb-9ef2-1ed4ad42cd1d.png)
 
 
 <table border="1" cellpadding="1" cellspacing="1">
