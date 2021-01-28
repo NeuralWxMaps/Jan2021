@@ -38,7 +38,6 @@
 Documenting the upper air patterns, jet level winds and precipitation patterns that occurred during January 2021.
 <hr>
 January 1, 2021
-<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>500 mb Heights Pattern</th>
@@ -66,7 +65,6 @@ January 1, 2021
       <td><img src="https://user-images.githubusercontent.com/75145898/106040132-3cb8bc00-6097-11eb-82b4-df58820f8403.png"></td>
     </tr>
 January 2, 2021
-<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>500 mb Heights Pattern</th>
@@ -94,7 +92,6 @@ January 2, 2021
       <td><img src=""></td>
     </tr>
 January 3, 2021
-<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>500 mb Heights Pattern</th>
@@ -122,7 +119,6 @@ January 3, 2021
       <td><img src=""></td>
     </tr>
 January 4, 2021
-<hr>
 
 
 
