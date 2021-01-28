@@ -13,7 +13,7 @@
     <tr>
       <th>500 mb Heights Pattern</th>
       <th>300 mb Isotachs Pattern</th>
-      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+      <th>Average QPF of the Dominant Nodes</th>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png" width="300"></td>
@@ -69,7 +69,7 @@ January 1, 2021
     <tr>
       <th>500 mb Heights Pattern</th>
       <th>300 mb Isotachs Pattern</th>
-      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+      <th>Average QPF of the Dominant Nodes</th>
     </tr>
     <tr>  
       <td><img src=""></td>
@@ -97,7 +97,7 @@ January 2, 2021
     <tr>
       <th>500 mb Heights Pattern</th>
       <th>300 mb Isotachs Pattern</th>
-      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+      <th>Average QPF of the Dominant Nodes</th>
     </tr>
     <tr>  
       <td><img src=""></td>
