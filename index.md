@@ -16,9 +16,9 @@
       <th>Average QPF of the Dominant Nodes</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png" width="300"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png" width="400"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/106035746-b0f06100-6091-11eb-993f-df06edaccbb5.png" width="400"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106023446-0b82c080-6084-11eb-925d-9ceed1b8d554.png" width="600"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106023446-0b82c080-6084-11eb-925d-9ceed1b8d554.png" width="400"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/106035273-27409380-6091-11eb-96ff-ae50cf88da5f.png"></td>
@@ -37,11 +37,13 @@
     </tr>
 Documenting the upper air patterns, jet level winds and precipitation patterns that occurred during January 2021.
 <hr>
+January 1, 2021
+<hr>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>500 mb Heights Pattern</th>
       <th>300 mb Isotachs Pattern</th>
-      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+      <th>Average QPF of the Dominant Nodes</th>
     </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/106037488-fb72dd00-6093-11eb-8b54-6d1dfe7ef380.png"></td>
@@ -62,34 +64,6 @@ Documenting the upper air patterns, jet level winds and precipitation patterns t
       <td><img src="https://user-images.githubusercontent.com/75145898/106037550-15142480-6094-11eb-9a62-4f5ff138d583.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/106038698-80122b00-6095-11eb-9221-ebcc41da78e4.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/106040132-3cb8bc00-6097-11eb-82b4-df58820f8403.png"></td>
-    </tr>
-January 1, 2021
-<hr>
-<table border="1" cellpadding="1" cellspacing="1">
-    <tr>
-      <th>500 mb Heights Pattern</th>
-      <th>300 mb Isotachs Pattern</th>
-      <th>Average QPF of the Dominant Nodes</th>
-    </tr>
-    <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
-    </tr>
-    <tr>  
-      <td><img src=""></td>
-      <td><img src=""></td>
-      <td><img src=""></td>
     </tr>
 January 2, 2021
 <hr>
@@ -120,6 +94,34 @@ January 2, 2021
       <td><img src=""></td>
     </tr>
 January 3, 2021
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>500 mb Heights Pattern</th>
+      <th>300 mb Isotachs Pattern</th>
+      <th>Average QPF of the Dominant Nodes</th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+January 4, 2021
 <hr>
 
 
