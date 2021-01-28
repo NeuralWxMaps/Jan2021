@@ -17,10 +17,10 @@
       <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png" width="100"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106035746-b0f06100-6091-11eb-993f-df06edaccbb5.png" width="200"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106023512-189faf80-6084-11eb-8ee5-231f1f1ecc20.png" width="300"></td>
-      <td><img src="https://user-images.githubusercontent.com/75145898/106023446-0b82c080-6084-11eb-925d-9ceed1b8d554.png" width="400"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106035207-142dc380-6091-11eb-971f-f3be88cbcacf.png" width="300"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106035746-b0f06100-6091-11eb-993f-df06edaccbb5.png" width="400"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106023512-189faf80-6084-11eb-8ee5-231f1f1ecc20.png" width="500"></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/106023446-0b82c080-6084-11eb-925d-9ceed1b8d554.png" width="600"></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/75145898/106035273-27409380-6091-11eb-96ff-ae50cf88da5f.png"></td>
