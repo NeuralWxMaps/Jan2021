@@ -37,6 +37,12 @@
     </tr>
 Documenting the upper air patterns, jet level winds and precipitation patterns that occurred during January 2021.
 <hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>500 mb Heights Pattern</th>
+      <th>300 mb Isotachs Pattern</th>
+      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+    </tr>
     <tr>  
       <td><img src="https://user-images.githubusercontent.com/75145898/106037488-fb72dd00-6093-11eb-8b54-6d1dfe7ef380.png"></td>
       <td><img src="https://user-images.githubusercontent.com/75145898/106038657-75f02c80-6095-11eb-8ed7-9d5bbf302599.png"></td>
@@ -59,7 +65,62 @@ Documenting the upper air patterns, jet level winds and precipitation patterns t
     </tr>
 January 1, 2021
 <hr>
-
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>500 mb Heights Pattern</th>
+      <th>300 mb Isotachs Pattern</th>
+      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+January 2, 2021
+<hr>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>500 mb Heights Pattern</th>
+      <th>300 mb Isotachs Pattern</th>
+      <th>Average Quantitative Precip Forecast of the Dominant Nodes</th>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+    <tr>  
+      <td><img src=""></td>
+      <td><img src=""></td>
+      <td><img src=""></td>
+    </tr>
+January 3, 2021
+<hr>
 
 
 
