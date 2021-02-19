@@ -11,6 +11,8 @@
 src='https://mars.nasa.gov/embed/25601/' width='100%' height='400' scrolling='no' frameborder='0'>
 </iframe>
 <hr>
+First images from Mars transmitted by the Perseverance Rover on February 18, 2021.
+<hr>
 
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
