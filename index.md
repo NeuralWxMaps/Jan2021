@@ -14,6 +14,59 @@ src='https://mars.nasa.gov/embed/25601/' width='100%' height='400' scrolling='no
 First images from Mars transmitted by the Perseverance Rover on February 18, 2021.
 <hr>
 
+
+![Pttn160](https://user-images.githubusercontent.com/75145898/109063292-3c1b4180-76a6-11eb-8fe8-4f02883eea3f.png)
+![Pttn310](https://user-images.githubusercontent.com/75145898/109063330-45a4a980-76a6-11eb-805c-a192fec2c36c.png)
+![Pttn337](https://user-images.githubusercontent.com/75145898/109063383-50f7d500-76a6-11eb-8f5f-a779182858c8.png)
+![Pttn532](https://user-images.githubusercontent.com/75145898/109063477-68cf5900-76a6-11eb-8ba5-131671d4b6c1.png)
+![Pttn597](https://user-images.githubusercontent.com/75145898/109063492-6f5dd080-76a6-11eb-8c6b-1052dd8c5f7a.png)
+![Pttn670](https://user-images.githubusercontent.com/75145898/109063521-78e73880-76a6-11eb-9b8a-aa7f49c32233.png)
+![Pttn707](https://user-images.githubusercontent.com/75145898/109063549-83093700-76a6-11eb-83d8-7331aa7d75f7.png)
+
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Forecasts Valid</th>
+      <th>2/25/2021</th>
+      <th>00z</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>    
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>    
+    <tr>
+      <td></td>
+      <td></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109063492-6f5dd080-76a6-11eb-8c6b-1052dd8c5f7a.png"></td>
+    </tr>    
+</table>
+<table border="1" cellpadding="1" cellspacing="1">
+    <tr>
+      <th>Forecasts Valid</th>
+      <th>2/26/2021</th>
+      <th>00z</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>    
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>    
+    <tr>
+      <td></td>
+      <td></td>
+      <td><img src="https://user-images.githubusercontent.com/75145898/109063383-50f7d500-76a6-11eb-8f5f-a779182858c8.png"></td>
+    </tr>    
+</table>
 <table border="1" cellpadding="1" cellspacing="1">
     <tr>
       <th>500 mb Heights Pattern</th>
